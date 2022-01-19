@@ -1,0 +1,45 @@
+{
+    "houseList": [{
+            "id": 1,
+            "title": "1 Kanal House",
+            "price": 27000000,
+            "location": "Phase 8, DHA Lahore.",
+            "bedroom": 7,
+            "bathroom": 9,
+            "area": "1 Kanal",
+            "garage": 2,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "type": "house",
+            "room": 3,
+            "status": "Sale",
+            "gym": true,
+            "homeTheatre": false,
+            "doubleUnit": false,
+            "furnished": false,
+            "jacuzzi": true,
+            "swimmingPool": false,
+            "imgPath": "assets/img/home/home (1).png"
+        },
+        {
+            "id": 2,
+            "title": "2 Kanal House",
+            "price": 77000000,
+            "location": "Phase 8, DHA Lahore.",
+            "bedroom": 6,
+            "bathroom": 10,
+            "area": "2 Kanal",
+            "garage": 1,
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "type": "house",
+            "room": 5,
+            "status": "Sale",
+            "gym": true,
+            "homeTheatre": true,
+            "doubleUnit": false,
+            "furnished": false,
+            "jacuzzi": true,
+            "swimmingPool": false,
+            "imgPath": "assets/img/home/home (2).jpg"
+        }
+    ]
+}
